@@ -150,7 +150,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TTCECHXB
 
 [Document7]
 DocumentPath=Schematics\Slot_periph.SchDoc
@@ -191,7 +191,7 @@ UniqueId=E8B467AB-A4EC-4D28-9DC6-14AC22407F74
 Description=Sinara
 AllowFabrication=1
 ParameterCount=1
-VariationCount=32
+VariationCount=48
 Variation1=Designator=BUSH1|UniqueId=\UAAJYMXQ\QOHWKIKK|Kind=1|AlternatePart=
 Variation2=Designator=BUSH2|UniqueId=\UAAJYMXQ\YXDSNXJY|Kind=1|AlternatePart=
 Variation3=Designator=BUSH3|UniqueId=\UAAJYMXQ\VUIYUHCP|Kind=1|AlternatePart=
@@ -224,6 +224,22 @@ Variation29=Designator=J24_Slot1|UniqueId=\IPLRRTCG\KNLCJNHR|Kind=1|AlternatePar
 Variation30=Designator=J24_Slot7|UniqueId=\BUFCNERK\KNLCJNHR|Kind=1|AlternatePart=
 Variation31=Designator=J24_Slot6|UniqueId=\FHKENZKU\KNLCJNHR|Kind=1|AlternatePart=
 Variation32=Designator=J24_Slot5|UniqueId=\PLYAFELT\KNLCJNHR|Kind=1|AlternatePart=
+Variation33=Designator=J14_Slot1|UniqueId=\IPLRRTCG\DUNGXVGI|Kind=1|AlternatePart=
+Variation34=Designator=J13_Slot1|UniqueId=\IPLRRTCG\MOXWGVVK|Kind=1|AlternatePart=
+Variation35=Designator=J14_Slot2|UniqueId=\OJIBYFZA\DUNGXVGI|Kind=1|AlternatePart=
+Variation36=Designator=J13_Slot2|UniqueId=\OJIBYFZA\MOXWGVVK|Kind=1|AlternatePart=
+Variation37=Designator=J14_Slot3|UniqueId=\MQYVILVU\DUNGXVGI|Kind=1|AlternatePart=
+Variation38=Designator=J13_Slot3|UniqueId=\MQYVILVU\MOXWGVVK|Kind=1|AlternatePart=
+Variation39=Designator=J14_Slot4|UniqueId=\QOJRTPMF\DUNGXVGI|Kind=1|AlternatePart=
+Variation40=Designator=J13_Slot4|UniqueId=\QOJRTPMF\MOXWGVVK|Kind=1|AlternatePart=
+Variation41=Designator=J14_Slot5|UniqueId=\PLYAFELT\DUNGXVGI|Kind=1|AlternatePart=
+Variation42=Designator=J13_Slot5|UniqueId=\PLYAFELT\MOXWGVVK|Kind=1|AlternatePart=
+Variation43=Designator=J14_Slot6|UniqueId=\FHKENZKU\DUNGXVGI|Kind=1|AlternatePart=
+Variation44=Designator=J13_Slot6|UniqueId=\FHKENZKU\MOXWGVVK|Kind=1|AlternatePart=
+Variation45=Designator=J14_Slot7|UniqueId=\BUFCNERK\DUNGXVGI|Kind=1|AlternatePart=
+Variation46=Designator=J13_Slot7|UniqueId=\BUFCNERK\MOXWGVVK|Kind=1|AlternatePart=
+Variation47=Designator=J14_Slot8|UniqueId=\EHDWYOBV\DUNGXVGI|Kind=1|AlternatePart=
+Variation48=Designator=J13_Slot8|UniqueId=\EHDWYOBV\MOXWGVVK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter2_1]
@@ -264,12 +280,12 @@ DocumentPath=Prod\ExportSTEP\DIOT_Backplane_v1([No Variations]).step
 DItemRevisionGUID=
 
 [Parameter1]
-Name=EDA_Variant
-Value=_0
-
-[Parameter2]
 Name=EDA_Number
 Value=EDA-04211-V4
+
+[Parameter2]
+Name=EDA_Variant
+Value=_0
 
 [Configuration1]
 Name=Default Configuration
@@ -965,6 +981,13 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
 
 [Difference Levels]
 Type1=1
@@ -1049,6 +1072,10 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
 
 [Electrical Rules Check]
 Type1=1
